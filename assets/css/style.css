@@ -229,7 +229,7 @@ body {
 
 img {
   max-width: 100%;
-min-height: max-content; }
+}
 
 a:focus,
 input:focus,
